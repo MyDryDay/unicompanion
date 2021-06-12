@@ -67,7 +67,7 @@ LinkedIn: https://www.linkedin.com/in/george-cope-633b761bb
 Telegram: https://t.me/G_Cope97
 
 #### Contributors
-Robbie Bridgwater  - https://github.com/Robbie-Bridgwater 
-Ben Pauley         - https://github.com/ben-pauley 
-Matthew Jones      - https://github.com/MJ-0001
-Gurvinder Dehl     - https://github.com/gurvinderdehl
+Robbie Bridgwater  - https://github.com/Robbie-Bridgwater   
+Ben Pauley         - https://github.com/ben-pauley   
+Matthew Jones      - https://github.com/MJ-0001  
+Gurvinder Dehl     - https://github.com/gurvinderdehl  
