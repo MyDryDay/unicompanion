@@ -65,3 +65,9 @@ All testing was done both locally and on the deployed Heroku version. This testi
 GitHub: https://github.com/MyDryDay  
 LinkedIn: https://www.linkedin.com/in/george-cope-633b761bb  
 Telegram: https://t.me/G_Cope97
+
+#### Contributors
+Robbie Bridgwater  - https://github.com/Robbie-Bridgwater 
+Ben Pauley         - https://github.com/ben-pauley 
+Matthew Jones      - https://github.com/MJ-0001
+Gurvinder Dehl     - https://github.com/gurvinderdehl
