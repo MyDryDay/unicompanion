@@ -35,19 +35,19 @@ Alternatively, follow these instructions:
 6. If you want to delete an event - click on that event and select 'Delete Event'.
 
 ### Screenshots
-- Homepage
+- Homepage  
 ![image](client/src/assets/img/homepage.png)
 
-- Calendar Page
+- Calendar Page  
 ![image](client/src/assets/img/calendar_page.png)
 
-- Sports and Societies Page
+- Sports and Societies Page  
 ![image](client/src/assets/img/sns_page.png)
 
-- Account Page
+- Account Page  
 ![image](client/src/assets/img/account_page.png)
 
-- About Us Page
+- About Us Page  
 ![image](client/src/assets/img/about_page.png)
 
 ### License ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT) 
